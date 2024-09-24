@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    height: 97vh;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 5px 0px;
+  }
+  .box {
+    height: 170px;
+    width: 170px;
+    margin: 5px 10px;
+  }
+.red {
+    background-color: red;
+    border: 15px solid darkred;
+  }
+.yellow {
+    background-color: yellow;
+    border: 15px solid darkgoldenrod;
+  }
+  .green {
+    background-color: #06f812;
+    border: 15px solid darkgreen;
+  }
+  .rött {
+    background-color: lightcoral;
+    height: 50%;
+    margin-top: 50%
+    
+  }
+.gult {
+  background-color: lightyellow;
+  height: 50%;
+  margin-left: 50%;
+  margin-top: 50% ;
+}
+.grönt {
+  background-color: lightgreen;
+  height: 50%;
+  margin-right: 50%;
+  margin-top: 50%;
+}
+  
